@@ -1,4 +1,4 @@
-# ctxqa - AI-Powered Folder Analyzer
+# repo-audit-cli
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go Version](https://img.shields.io/badge/Go-1.22%2B-00ADD8)](https://golang.org/dl/)
