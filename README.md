@@ -6,6 +6,8 @@
 
 A terminal CLI tool that analyzes any folder using AI. Traverse the entire directory tree, send file contents to an LLM in batches, and get a structured report covering file structure, organization suggestions, progress analysis, issue detection, quality scoring, and improvement recommendations.
 
+> **Name origin**: `ctxqa` = **ctx** (context) + **qa** (quality audit). It reflects the core idea: analyze any folder with full context awareness and produce a structured quality audit report. The repo name `repo-audit` describes what it does; `ctxqa` is the internal command identity.
+
 ## Why ctxqa?
 
 - **Any folder, not just code repos**: Works on documents, configs, data files, mixed content
